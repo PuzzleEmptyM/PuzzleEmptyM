@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuzzleEmptyM
+- 👋 Hi, I’m Puzzle (Michael) Moser!
 - 👀 I’m interested in game development, video production, and problem solving.
 - 🌱 I’m currently learning Full-Stack web development at Holberton School for Computer Programming in Tulsa, OK.
 - 📫 How to reach me - PuzzleEmptyM on all socials, or, PuzzleEmptyM@gmail.com.
