@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Puzzle (Michael) Moser!
 
-- 📚 I'm a Full Stack Developer, currently enriching my technical toolkit at Atlas School Tulsa. With a foundation in both front-end and back-end technologies like JavaScript, HTML, Python, and C, I'm excited about crafting efficient and user-friendly web solutions.
+- 📚 I'm a Full Stack Developer graduate from Atlas School Tulsa. With a foundation in both front-end and back-end technologies like React, Python, and C, I'm excited about crafting efficient and user-friendly web solutions.
 
 - 💡 I'm passionate about applying my tech skills in real-world scenarios, and eager to contribute to projects that are both challenging and impactful. I'm on the lookout for opportunities where I can grow and make a tangible difference, as I believe inspiration is the most valuable currency.
 
